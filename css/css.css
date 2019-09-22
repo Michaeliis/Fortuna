@@ -1,0 +1,31 @@
+@font-face {
+    font-family: moon;
+    src: url(../fonts/Moon2.0-Regular.otf);
+}
+
+@font-face {
+    font-family: oneday;
+    src: url(../fonts/ONEDAY.otf);
+}
+
+body{
+  font-family: moon;
+  font-size: 16px;
+}
+
+option, select{
+  padding: 5px;
+}
+
+#advanced{
+  background-color: #DCDCDC;
+  padding:10px;
+}
+
+.navbar-brand{
+  font-family: oneday;
+}
+
+.nav{
+  font-size: 16px;
+}
